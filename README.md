@@ -1,9 +1,9 @@
 # 🎵 Offline Music Player
 
 <p align="center">
-  <img src="screenshots/home_with_songs.png" width="180" alt="Home"/>
+  <img width="334" height="725" alt="home_screen" src="https://github.com/user-attachments/assets/803429ee-316e-4d64-ac54-e7d797f60717" />
   &nbsp;
-  <img src="screenshots/now_playing.png" width="180" alt="Now Playing"/>
+  <img width="339" height="726" alt="now_playing" src="https://github.com/user-attachments/assets/1c449448-733e-49ab-9e21-1cac60498b59" />
   &nbsp;
   <img src="screenshots/playlist_screen.png" width="180" alt="Playlists"/>
   &nbsp;
@@ -76,7 +76,7 @@ This project was built as part of **Chapter 5 - Simple Offline Music Player** la
 > App requests storage/media access on first launch
 
 <p align="center">
-  <img src="screenshots/permission_dialog.png" width="260" alt="Permission Dialog"/>
+  <img width="325" height="690" alt="permission_dialog" src="https://github.com/user-attachments/assets/a118b625-1f0e-4b93-b9c2-e8609bf08c77" />
 </p>
 
 ---
@@ -85,9 +85,10 @@ This project was built as part of **Chapter 5 - Simple Offline Music Player** la
 > Displays all music files found on device storage (7 songs loaded)
 
 <p align="center">
-  <img src="screenshots/home_screen.png" width="260" alt="Home Screen - No songs"/>
+  <img width="334" height="725" alt="home_screen" src="https://github.com/user-attachments/assets/23a899b2-e4a7-4af2-be6a-f21d5e80b7e9" />
   &nbsp;&nbsp;
-  <img src="screenshots/home_with_songs.png" width="260" alt="Home Screen - With songs"/>
+  <img width="339" height="726" alt="home_with_song" src="https://github.com/user-attachments/assets/967ed4ab-f2d5-4c65-8ed1-810bcebd2839" />
+
 </p>
 
 ---
@@ -96,7 +97,7 @@ This project was built as part of **Chapter 5 - Simple Offline Music Player** la
 > Full-screen player with album art, progress bar, seek, shuffle, repeat and volume control
 
 <p align="center">
-  <img src="screenshots/now_playing.png" width="260" alt="Now Playing Screen"/>
+  <img width="326" height="681" alt="now_playing_screen" src="https://github.com/user-attachments/assets/f88234b1-0921-4861-bccc-ec6a0fc92703" />
 </p>
 
 ---
