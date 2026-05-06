@@ -1,9 +1,9 @@
 # 🎵 Offline Music Player
 
 <p align="center">
-  <img width="334" height="725" alt="home_screen" src="https://github.com/user-attachments/assets/803429ee-316e-4d64-ac54-e7d797f60717" />
+  <img width="334" alt="home_screen" src="https://github.com/user-attachments/assets/803429ee-316e-4d64-ac54-e7d797f60717" />
   &nbsp;
-  <img width="339" height="726" alt="now_playing" src="https://github.com/user-attachments/assets/1c449448-733e-49ab-9e21-1cac60498b59" />
+  <img width="339" alt="now_playing" src="https://github.com/user-attachments/assets/1c449448-733e-49ab-9e21-1cac60498b59" />
   &nbsp;
   <img src="screenshots/playlist_screen.png" width="180" alt="Playlists"/>
   &nbsp;
@@ -106,7 +106,7 @@ This project was built as part of **Chapter 5 - Simple Offline Music Player** la
 > Compact playback bar visible at the bottom of all screens while music is playing
 
 <p align="center">
-  <img src="screenshots/mini_player.png" width="260" alt="Mini Player"/>
+  <img width="395" height="78" alt="mini_player" src="https://github.com/user-attachments/assets/59607a93-e0a6-4333-a50a-34fd057f6487" />
 </p>
 
 ---
